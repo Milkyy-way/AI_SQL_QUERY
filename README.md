@@ -62,5 +62,5 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/marketing-analyst-query-bot.git
-   cd marketing-analyst-query-bot
+   git clone https://github.com/Milkyy-way/AI_SQL_QUERY.git
+   cd AI_SQL_QUERY
